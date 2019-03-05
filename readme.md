@@ -4,4 +4,4 @@ A clone of BonziBuddy written using C#, and the power of Microsoft Agent and VBS
 
 Developed in Visual Studio 2017 Community and VS Code
 
-Go to [https://github.com/scottbeebiwan/RalseiBuddy/releases](the releases page) to download
+Go to [the releases page](releases) to download
